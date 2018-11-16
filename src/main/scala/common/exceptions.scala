@@ -1,0 +1,2 @@
+package common
+class KeyNotFoundException extends Exception
